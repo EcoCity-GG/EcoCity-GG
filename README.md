@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=4000&pause=1000&color=efeaa7&width=700&height=100&lines=Bem-Vindo+ao+EcoCity!" alt="Bem-Vindo ao EcoCity!"/>
 </div>
 <div align="center">
-      <img src="https://github.com/user-attachments/assets/b156178c-620f-477f-8b8b-8b0718038b0b" alt="EcoCity">
+      <img src="https://github.com/user-attachments/assets/b9dd894b-e26b-4880-a0dc-f32d2b299753" alt="EcoCity">
 </div>
 
 <div align="center">
