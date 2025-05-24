@@ -1,9 +1,10 @@
-# 🌱 EcoCity - Conectando Sustentabilidade e Tecnologia
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=4000&pause=1000&color=efeaa7&width=700&height=100&lines=Welcome+to+my+GitHub!" alt="Bem-Vindo ao EcoCity!"/>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Sustentabilidade-%E2%9C%A8-green" alt="Sustentabilidade">
   <img src="https://img.shields.io/badge/Tecnologia-%F0%9F%92%BB-blue" alt="Tecnologia">
-  <img src="https://img.shields.io/badge/Open_Source-%E2%9D%A4-red" alt="Open Source">
 </div>
 
 ## ✨ Sobre o Projeto
