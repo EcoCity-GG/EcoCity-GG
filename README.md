@@ -36,7 +36,7 @@ Aceitamos contribuições! Se quer ajudar:
 Quer saber mais sobre o projeto ou colaborar?
 
 - 📧 Email: ecocity.gg@gmail.com
-- 🌐 Website: ecocity-801cc.web.app
+- 🌐 Website:https://ecocity-801cc.web.app/
 
 <div align="center">
   <p>Junte-se a nós na construção de cidades mais sustentáveis!</p>
