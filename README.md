@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=4000&pause=1000&color=efeaa7&width=700&height=100&lines=Welcome+to+my+GitHub!" alt="Bem-Vindo ao EcoCity!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=4000&pause=1000&color=efeaa7&width=700&height=100&lines=Bem-Vindo+ao+EcoCity!" alt="Bem-Vindo ao EcoCity!"/>
 </div>
 
 <div align="center">
