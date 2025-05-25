@@ -14,6 +14,11 @@
 
 A **EcoCity** é uma plataforma digital inovadora que conecta pessoas, empresas e iniciativas ambientais para construir um futuro mais sustentável. Desenvolvida como iniciativa privada, nosso objetivo é facilitar o acesso a serviços ecológicos e promover a conscientização ambiental.
 
+## Social Medias
+<p align="left">
+<a href="https://instagram.com/https://www.instagram.com/ecocity.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guh.alvxs" height="30" width="40" /></a>
+</p>
+
 ## 🌍 Funcionalidades Principais
 
 - 🗺️ **Mapa de Pontos de Coleta**: Localize facilmente onde descartar:
