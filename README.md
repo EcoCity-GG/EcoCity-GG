@@ -16,7 +16,7 @@ A **EcoCity** é uma plataforma digital inovadora que conecta pessoas, empresas 
 
 ## Social Medias
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/ecocity.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guh.alvxs" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ecocity.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ecocity.gg/" height="30" width="40" /></a>
 </p>
 
 ## 🌍 Funcionalidades Principais
